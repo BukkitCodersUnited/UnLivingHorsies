@@ -2,3 +2,7 @@ Percent of natural spawns: 5
 Natural Spawn skeleton to zombie horse chance: 50
 Horse death to zombie horse chance: 1
 Horse death to skeleton horse chance: 1
+EnabledWorlds:
+- world
+- world_the_end
+- world_nether
